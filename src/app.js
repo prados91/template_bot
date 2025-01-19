@@ -1,5 +1,5 @@
 import { createBot } from '@builderbot/bot';
-import { MemoryDB as Database } from '@builderbot/bot';//test
+import { MemoryDB as Database } from '@builderbot/bot';
 import templates from './templates/index.js'; // Cambia a import y agrega .js
 import { providerMeta, providerBaileys } from './provider/index.js'; // Cambia a import y agrega .js
 import { config } from './config/index.js'; // Cambia a import y agrega .js
