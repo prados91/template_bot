@@ -56,5 +56,4 @@ Si deseas profundizar en todas las funciones y configuraciones que puedes implem
 
 - [💻 Discord](https://discord.gg/9pB5pPbf2m) – Únete a nuestra comunidad.
 - [📺 YouTube](https://www.youtube.com/channel/UCkk1guGQ6C6I4_XJ2Pa3SiA) – Mira nuestros tutoriales y contenido exclusivo.
-- [🛒 Todos los Productos](https://aipaths.teachable.com/courses/) – Explora todos nuestros cursos y herramientas disponibles.# template_bot
-# template_bot
+- [🛒 Todos los Productos](https://aipaths.teachable.com/courses/) – Explora todos nuestros cursos y herramientas disponibles.
